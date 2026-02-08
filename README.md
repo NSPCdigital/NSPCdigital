@@ -35,7 +35,13 @@ I build scalable web applications, automated scraping tools, and containerized s
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NSPCdigital&show_icons=true&theme=radical&hide_border=true)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=NSPCdigital&show_icons=true&theme=tokyonight&hide_border=true" alt="NSPCdigital GitHub stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSPCdigital&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
