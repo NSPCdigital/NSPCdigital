@@ -84,15 +84,13 @@ Full-stack CRM for managing clients, projects, tasks, invoices, and communicatio
 | [product-api](https://github.com/NSPCdigital/product-api) | Product REST API | Node.js, Express, PostgreSQL, Sequelize, JWT |
 | [weather-dashboard](https://github.com/NSPCdigital/weather-dashboard) | Automated weather tracker | Flask, SQLite, Chart.js, HTML |
 | [PhotoBrand](https://github.com/NSPCdigital/PhotoBrand) | Bulk watermarking tool | Python |
-| [github-readme-stats](https://github.com/NSPCdigital/github-readme-stats) | Fork for README stats | JavaScript |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NSPCdigital&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSPCdigital&layout=compact&theme=radical&hide_border=true" />
+  ![GitHub Stats](https://github-readme-stats-sage-delta-88.vercel.app/api?username=NSPCdigital&show_icons=true&theme=radical&hide_border=true)
 </div>
 
 ---
