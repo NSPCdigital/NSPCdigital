@@ -1,54 +1,87 @@
-👋 Hi, I'm NSPC Digital!
-Full-Stack Developer specializing in Python, JavaScript/TypeScript, and modern DevOps practices.
+<div align="center">
 
-I build scalable web applications, automated scraping tools, and containerized systems.
+# 👋 Hi, I'm NSPC Digital
 
-🛠️ Tech Stack & Tools
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
+### Full-Stack Developer • Python • JavaScript/TypeScript • DevOps
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
+I build scalable products, automation workflows, and production-ready containerized systems.
 
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+<p>
+  <a href="https://nspcdigital.pl" target="_blank">
+    <img src="https://img.shields.io/badge/Website-nspcdigital.pl-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote-16A34A?style=for-the-badge" />
+</p>
 
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
+</div>
 
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS">
+---
 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js">
+## 🚀 Currently Building
 
-<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS">
+### 📈 ClientFlow CRM
+Full-stack CRM platform for managing clients, projects, tasks, invoices, and communication with a secure auth flow and hardened release process.
 
-<img src="https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL">
+**Highlights:** cookie-based auth, GraphQL API, Prisma ORM, reporting, communication inbox, Dockerized setup.
 
-<img src="https://img.shields.io/badge/apollo graphql-311C87?style=for-the-badge&amp;logo=apollographql&amp;logoColor=white" alt="Apollo GraphQL">
+---
 
-<img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma">
+## 🧰 Tech Stack
 
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django">
+### Core
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask">
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
 
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+### Backend / Data / DevOps
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
-<img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+---
 
-<img src="https://img.shields.io/badge/ant design-%230170FE.svg?style=for-the-badge&amp;logo=ant-design&amp;logoColor=white" alt="Ant Design">
+## 🌟 Featured Projects
 
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+| Project | Description | Stack |
+|---|---|---|
+| [📈 ClientFlow CRM](https://github.com/NSPCdigital/ClientFlow-CRM-) | Full-stack CRM with secure auth, reporting, invoicing, and communication modules | Next.js, NestJS, GraphQL, Prisma, PostgreSQL, Apollo, Ant Design, Docker |
+| [🐳 Docker Full-Stack](https://github.com/NSPCdigital/fullstack-docker) | Fully containerized task manager | Docker, React, Flask, JWT |
+| [💰 Price Tracker](https://github.com/NSPCdigital/price-tracker) | E-commerce monitoring and scraping automation | Python, Playwright, Web Scraping |
+| [🔐 SecureTask API](https://github.com/NSPCdigital/task-api) | JWT-secured REST API | Flask, JWT, SQLite, Swagger |
+| [📝 TechBlog](https://github.com/NSPCdigital/django-blog) | CMS/blog platform | Django, PostgreSQL, Tailwind |
 
-🚀 Featured Projects
-Project	Description	Tech Stack
-📈 ClientFlow CRM	Full-stack CRM for managing clients, projects, tasks, invoices, and communication with secure auth flow	Next.js, NestJS, GraphQL, Prisma, PostgreSQL, Apollo, Ant Design, Docker
-🐳 Docker Full-Stack	Fully containerized task manager	Docker, React, Flask, JWT
-💰 Price Tracker	E-commerce price monitoring tool	Python, Playwright, Web Scraping
-🔐 SecureTask API	REST API with JWT authentication	Flask, JWT, SQLite, Swagger
-📝 TechBlog	Professional CMS platform	Django, PostgreSQL, Tailwind
-⚛️ Task Frontend	Modern task management UI	React, Axios, JWT
-🟢 ProductAPI	Node.js backend with Sequelize	Node.js, Express, PostgreSQL
-📊 GitHub Stats
-<img src="https://github-readme-stats-sage-delta-88.vercel.app/api?username=NSPCdigital&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="GitHub Stats">
+---
 
-📫 Connect with Me
-🌐 Website: nspcdigital.pl
-💼 Open for freelance projects and remote opportunities
-"Building efficient solutions with code and containers." ⚡
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NSPCdigital&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSPCdigital&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+- 🌐 Website: https://nspcdigital.pl
+- 💼 Open to freelance projects and remote collaboration
+
+---
+
+<div align="center">
+
+### ⚡ Building efficient solutions with code and containers.
+
+</div>
