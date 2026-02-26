@@ -89,9 +89,8 @@ Full-stack CRM for managing clients, projects, tasks, invoices, and communicatio
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats-sage-delta-88.vercel.app/api?username=NSPCdigital&show_icons=true&theme=radical&hide_border=true)
-</div>
+![GitHub Stats](https://github-readme-stats-sage-delta-88.vercel.app/api?username=NSPCdigital&show_icons=true&theme=radical&hide_border=true)
+
 
 ---
 
